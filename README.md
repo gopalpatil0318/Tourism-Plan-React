@@ -19,16 +19,14 @@ This project is a simple React application that allows users to view a list of t
     ```sh
     cd Tourism-Plan-React
 
-
 4. Install dependencies:
     ```sh
     npm install
 
-
 5. Start the development server:
     ```sh
     npm start
-
+    
 6. Open your browser and visit http://localhost:3000 to view the app.
 
 
