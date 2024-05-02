@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tourism-Plan-React/static/css/main.5cea63c9.css",
+    "main.js": "/Tourism-Plan-React/static/js/main.1b497d70.js",
+    "index.html": "/Tourism-Plan-React/index.html",
+    "main.5cea63c9.css.map": "/Tourism-Plan-React/static/css/main.5cea63c9.css.map",
+    "main.1b497d70.js.map": "/Tourism-Plan-React/static/js/main.1b497d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cea63c9.css",
+    "static/js/main.1b497d70.js"
+  ]
+}
