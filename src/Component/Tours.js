@@ -7,7 +7,7 @@ const Tours = ({tours,removeTour}) => {
   return (
     <div className='container '>
       <div>
-        <h2 className='title'>Plan With Love</h2>
+        <h2 className='title'>Plan With Gopal</h2>
       </div>
         
 

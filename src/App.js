@@ -16,7 +16,7 @@ const App = () => {
   {
     return(
       <div className="refresh">
-        <h2>No Tour Left</h2>
+        <h5>No Tour Left</h5>
         <button className="btnWhite" onClick={() => setTours(data)}>
           refresh
         </button>
