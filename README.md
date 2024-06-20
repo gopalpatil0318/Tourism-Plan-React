@@ -13,8 +13,8 @@ This project is a simple React application that allows users to view a list of t
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/gopalpatil0318/NewsApi-ReactApp.git
-
+   git clone https://github.com/gopalpatil0318/Tourism-Plan-React.git
+   
 2. Navigate to the project directory:
     ```sh
     cd Tourism-Plan-React
